@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				120,
+				111
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Tails Left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				110
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Tails Right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				121,
+				111
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Tails Down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				120,
+				110
+			],
+			"loop": false,
+			"anim": "firstDeath",
+			"fps": 24,
+			"name": "Tails Tails dies",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				120,
+				110
+			],
+			"fps": 24,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "Tails Dead Loop"
+		},
+		{
+			"offsets": [
+				120,
+				110
+			],
+			"loop": false,
+			"anim": "deathConfirm",
+			"fps": 24,
+			"name": "Tails death Confirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				110
+			],
+			"anim": "idle-alt",
+			"fps": 24,
+			"name": "Tails alt",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				110
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Tails Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				121,
+				112
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Tails Up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Tails",
+	"position": [
+		50,
+		150
+	],
+	"healthicon": "tails",
+	"flip_x": true,
+	"healthbar_colors": [
+		255,
+		170,
+		80
+	],
+	"camera_position": [
+		-50,
+		25
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

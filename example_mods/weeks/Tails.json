@@ -1,0 +1,32 @@
+{
+	"storyName": "Not your friend",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Tails",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"tailsmenu",
+		""
+	],
+	"songs": [
+		[
+			"disguises",
+			"tails",
+			[
+				246,
+				153,
+				60
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Tails",
+	"hiddenUntilUnlocked": false
+}

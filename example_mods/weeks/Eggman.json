@@ -1,0 +1,26 @@
+{
+	"storyName": "Last chance",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "Tails",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"tailsmenu",
+		"",
+		null
+	],
+	"songs": [
+		[
+			"confronting-yourself",
+			"sonic2",
+			[
+				26,
+				0,
+				93
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Eggman"
+}

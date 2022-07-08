@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="sexe_menu.png">
+<SubTexture name="sexeIdle0000" x="0" y="0" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0001" x="724" y="0" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0002" x="1448" y="0" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0003" x="2172" y="0" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0004" x="0" y="734" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0005" x="724" y="734" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0006" x="1448" y="734" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0007" x="2172" y="734" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0008" x="0" y="1468" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0009" x="724" y="1468" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0010" x="1448" y="1468" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0011" x="2172" y="1468" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0012" x="0" y="2202" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0013" x="724" y="2202" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0014" x="1448" y="2202" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0015" x="2172" y="2202" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0016" x="0" y="2936" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+<SubTexture name="sexeIdle0017" x="724" y="2936" width="724" height="734" frameX="0" frameY="0" frameWidth="724" frameHeight="734" />
+</TextureAtlas>
